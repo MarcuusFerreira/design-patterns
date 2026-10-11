@@ -7,6 +7,9 @@ public class TaxClient {
      * Um dos "problemas" do padrão de projeto strategy é que ele joga
      * a responsabilidade do contexto para cima, então o cliente fica
      * responsavel por saber qual tipo/parametro ele deve passar.
+     *
+     * Dessa forma a nossa classe está fechada para modificação e aberta para extensão
+     * Além da classe só ter um motivo para mudar, caso o imposto mude.
      */
     static void main() {
         var type = "ICMS";
