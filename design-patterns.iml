@@ -7,5 +7,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="openhtmltopdf.pdfbox" level="project" />
+    <orderEntry type="library" name="github.librepdf.openpdf" level="project" />
   </component>
 </module>

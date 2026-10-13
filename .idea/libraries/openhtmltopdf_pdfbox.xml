@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="openhtmltopdf.pdfbox" type="repository">
+    <properties maven-id="com.openhtmltopdf:openhtmltopdf-pdfbox:1.0.10" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/openhtmltopdf/openhtmltopdf-pdfbox/1.0.10/openhtmltopdf-pdfbox-1.0.10.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/pdfbox/pdfbox/2.0.24/pdfbox-2.0.24.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/pdfbox/fontbox/2.0.24/fontbox-2.0.24.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.2/commons-logging-1.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/pdfbox/xmpbox/2.0.24/xmpbox-2.0.24.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/openhtmltopdf/openhtmltopdf-core/1.0.10/openhtmltopdf-core-1.0.10.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/de/rototor/pdfbox/graphics2d/0.32/graphics2d-0.32.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
